@@ -1,3 +1,2 @@
 ﻿My first Git project
-Great timing
-
+Now, Lets see
